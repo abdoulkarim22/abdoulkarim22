@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdoul Karim Soumana</h1>
+<h1 align="center">Hi 👋, I'm Abdoul Karimoun Soumana</h1>
 <h3 align="center">A passionate developer from Niger.</h3>
 
 <h3 align="left">Connect with me:</h3>
