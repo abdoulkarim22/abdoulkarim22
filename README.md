@@ -2,9 +2,21 @@
    
    
    # 💫 About Me:
-  I am a Full Stack Developer with over 3 years of experience building web and mobile applications. I specialize in JavaScript, Next js, TypeScript, React.js, React Native,  and Firebase, creating efficient and scalable solutions for both frontend and backend.
+I am a full-stack developer with 3 years of experience in creating web and mobile applications. I specialize in JavaScript, Next.js, TypeScript, React.js, React Native, and Firebase.
 
-Currently, I am a student at 42 Abu Dhabi, where I continue to deepen my expertise in software development and collaborative projects. I am passionate about learning new technologies, solving complex problems, and delivering high-quality code.
+I am currently a student at 42 Abu Dhabi, where I continue to deepen my expertise in software development and collaborative projects. I am passionate about learning new technologies, solving complex problems, and delivering high-quality code.
+
+
+
+Translated with DeepL.com (free version)
+
+
+
+Translated with DeepL.com (free version)
+
+
+
+Translated with DeepL.com (free version)
   
   
   ## 🌐 Socials:
