@@ -6,18 +6,6 @@ I am a full-stack developer with 3 years of experience in creating web and mobil
 
 I am currently a student at 42 Abu Dhabi, where I continue to deepen my expertise in software development and collaborative projects. I am passionate about learning new technologies, solving complex problems, and delivering high-quality code.
 
-
-
-Translated with DeepL.com (free version)
-
-
-
-Translated with DeepL.com (free version)
-
-
-
-Translated with DeepL.com (free version)
-  
   
   ## 🌐 Socials:
   [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:absouman@student.42abudhabi.ae) 
