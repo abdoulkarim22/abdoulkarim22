@@ -3,7 +3,7 @@
 # 💫 About Me:
 I am a passionate web and mobile developer with a strong curiosity for technology and continuous learning. Motivated by challenges, I focus on creating efficient and user-friendly digital solutions that make an impact. I thrive in collaborative environments and aim to deliver high-quality, scalable, and innovative applications.
 
-📩 Contact: absouman@student.42abudhabi.ae
+📩 Contact: mainassaraabdoulkarim42@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdoul-karim-soumana-333ab0329/) 
